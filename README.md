@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/swarnima1212/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/swarnima1212/DSA-Questions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
 | [2195-time-needed-to-buy-tickets](https://github.com/swarnima1212/DSA-Questions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/swarnima1212/DSA-Questions/tree/master/0162-find-peak-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
