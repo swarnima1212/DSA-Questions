@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swarnima1212/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/swarnima1212/DSA-Questions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/swarnima1212/DSA-Questions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/swarnima1212/DSA-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/swarnima1212/DSA-Questions/tree/master/0200-number-of-islands) |
 | [2195-time-needed-to-buy-tickets](https://github.com/swarnima1212/DSA-Questions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sorting
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/swarnima1212/DSA-Questions/tree/master/0800-letter-case-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/swarnima1212/DSA-Questions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
